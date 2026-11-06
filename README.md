@@ -31,4 +31,3 @@ The final cells export the Python model, JSON tree, rules, comparison scores and
 
 Sources: [Open-Meteo](https://open-meteo.com/en/docs/historical-weather-api), [FAO-56](https://www.fao.org/4/X0490E/X0490E00.htm), [WUCOLS](https://ucanr.edu/sites/WUCOLS/) and [scikit-learn](https://scikit-learn.org/stable/).
 
-Code and editing assistance: OpenAI Codex.
